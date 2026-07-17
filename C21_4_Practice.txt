@@ -1,0 +1,5 @@
+name = input('Enter a name : ')
+print('Enter a name : ',name)
+print()
+for i in range (1,6):
+    print(f'{i}. {name}')
